@@ -1,0 +1,33 @@
+Title: Cheshire ConCATenation - No Strings Attached
+
+Author: Oluwatimilehin Dayo-Kayode
+
+Purpose: Create and manipulate a linked list of characters using multiple functions
+
+Files:
+
+CharLinkedList.h
+
+This file contains the declaration of the constructors, destructors, functions, and variables that I used in my program. 
+
+
+CharLinkedList.cpp
+
+This file contains my constructor and function definitions, and initializes all my variables 
+
+testCharLinkedList.cpp 
+
+This file contains a main.cpp function that I used to test the functions I created and make sure that they worked the way the specifications wanted them to.
+
+README
+
+This file contains a general description and information about my program as a whole.
+
+
+MakeFile
+
+
+
+-I used linked lists in this program as a way to store a series of characters. Through this homework, I came to the realization that linked lists as a data structure are very helpful to a brogrammer in that the data stored in them take up the minimal amount of space required without. They are also very convenient to travel across using pointers. I did notice however that they have the disadvantage of not being a little more(or a lot more) complicated than sequences.
+
+I tested the assignment by putting edge cases that made sure that my exceptions were working. I tested for different lengths of sequences to make sure that they ran properly. I also tested my code against the tests from the provide to ensure that I didn't forget any corner cases.
